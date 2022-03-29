@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A web app integrating the Github API used to search Github user profiles to get a custom view of their repos and basic user information.
+UI Designed with the help of Daisy UI. 
 
 ## Available Scripts
 
